@@ -1,20 +1,20 @@
 * Login Screen
 
-!\[login screen screenschot](./login\_screen.png)
+![login screen screenschot](./login\_screen.png)
 
 * API List
 
-!\[api ist screenshot](./api\_list\_ss.png)
+![api list screenshot](./api\_list\_ss.png)
 
 * Navigation
 
-!\[Navigation screenshot](./navigation\_ss.png)
+![Navigation screenshot](./navigation\_ss.png)
 
 * Counter App
 
-!\[counter app screenshot](./counter\_app.png)
+![counter app screenshot](./counter\_app.png)
 
 * Styling
 
-!\[styling screenshot](./styling\_ss.png)
+![styling screenshot](./styling\_ss.png)
 
